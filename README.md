@@ -86,6 +86,8 @@ bundler exec jekyll serve
 jekyll serve
 ```
 
+***
+
 ### Vídeo 3
 - 0:50
 ```
@@ -97,8 +99,12 @@ ano-mês-dia-nome-do-arquivo.md
 [texto](http://example.com)
 ```
 
+***
+
 ### Vídeo 4
 - Como colocar seu podcast no Itunes e Spotify: https://youtu.be/ADOMyrQDcXI
+
+***
 
 ### Links úteis
 
