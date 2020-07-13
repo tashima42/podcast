@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Episódio Teste"
-date:   2020-07-12 14:58:00 -0300
+title:  "#2 - Outro exemplo de episódio"
+date:   2020-07-12 15:39:00 -0300
 categories: episodio teste
 ---
 
-Nesse *episódio* **falo** de xxx e xxxx
+Esse é outro exemplo de episódio
 
 ***
 
