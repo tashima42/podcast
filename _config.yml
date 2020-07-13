@@ -22,8 +22,8 @@ title: Tashima Podcast
 email: pedrotashima@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Falo sobre tecnologia, dia a dia e muito mais!
-baseurl: "podcast" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://podcast.tashima.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tashima42
 github_username:  tashima42
 youtube_username: pedrotashima
